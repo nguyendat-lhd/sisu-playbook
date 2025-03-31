@@ -4,59 +4,56 @@ sidebar_position: 1
 
 # Giới thiệu về AI CoE Playbook
 
-Chào mừng bạn đến với **AI CoE Playbook của Sisu** - một tài liệu hướng dẫn toàn diện dành cho các nhà lãnh đạo công nghệ và đổi mới trong việc xây dựng và phát triển năng lực AI trong doanh nghiệp.
+Chúng ta cần có một góc nhìn rộng hơn về công việc và sự phát triển bền vững của tổ chức trong kỷ nguyên AI.
+
+Sự phát triển nhanh chóng của trí tuệ nhân tạo đang định hình lại cách doanh nghiệp vận hành, đặt ra yêu cầu cấp thiết về việc thích ứng và chuyển đổi. Để không bị tụt lại phía sau, các tổ chức không chỉ cần ứng dụng AI mà còn phải xây dựng một môi trường làm việc giúp nhân viên phát triển cùng với công nghệ.
+
+Trong một tổ chức đổi mới bền vững, việc phát triển năng lực AI không chỉ là trách nhiệm của bộ phận kỹ thuật mà còn là chiến lược cốt lõi để tăng cường sức mạnh nội bộ. Điều này không chỉ giúp doanh nghiệp tối ưu hóa vận hành mà còn bảo vệ đội ngũ khỏi những rủi ro tâm lý khi phải liên tục thích nghi với sự thay đổi. Một môi trường làm việc tốt sẽ giúp nhân viên không chỉ tồn tại trong kỷ nguyên AI mà còn phát triển mạnh mẽ, có cơ hội học hỏi, sáng tạo và dẫn dắt sự đổi mới.
+
+Sisu AI CoE Playbook là một sáng kiến tiên phong, tập trung vào việc xây dựng năng lực AI cho tổ chức, từ tư duy chiến lược đến triển khai thực tế. Mục tiêu của chúng tôi không chỉ là giúp doanh nghiệp ứng dụng AI hiệu quả mà còn tạo ra một môi trường nơi con người và công nghệ cùng nhau phát triển, thúc đẩy sự thịnh vượng bền vững.
 
 ## Đối tượng độc giả
 
-Playbook này được thiết kế dành riêng cho:
-- CTO (Giám đốc Công nghệ)
-- CIO (Giám đốc Công nghệ Thông tin)
-- Head of AI (Trưởng phòng AI)
-- Innovation Lead (Trưởng phòng Đổi mới)
-- Các nhà lãnh đạo quan tâm đến việc phát triển năng lực AI trong tổ chức
+Bộ công cụ này dành cho bất kỳ cá nhân hoặc nhóm nào tham gia vào quá trình xây dựng và phát triển Trung tâm Xuất sắc về AI (AI CoE). Các nhóm thường liên quan đến quá trình này bao gồm đội ngũ công nghệ, đổi mới sáng tạo, chiến lược, vận hành và nhân sự. Bộ công cụ cũng phù hợp với bất kỳ cá nhân nào, ở mọi cấp độ, quan tâm đến việc thúc đẩy ứng dụng AI trong tổ chức.
 
-## Nội dung chính
+Lãnh đạo cấp cao đóng vai trò quan trọng trong việc định hướng chiến lược AI, xây dựng chính sách và thực thi các sáng kiến liên quan đến AI CoE. Họ có thể tác động tích cực đến văn hóa doanh nghiệp, quy trình quản lý và trải nghiệm của nhân viên. Vì vậy, việc lãnh đạo cấp cao tham gia và ủng hộ sáng kiến AI CoE là điều cần thiết để thành công.
 
-Playbook này sẽ hướng dẫn bạn qua các phần quan trọng:
+Sisu AI CoE Playbook được thiết kế để phù hợp với nhiều loại hình doanh nghiệp. Các hoạt động trong bộ công cụ này có thể áp dụng cho nhiều ngành nghề và quy mô tổ chức khác nhau, đồng thời có thể linh hoạt điều chỉnh để phù hợp với nhu cầu cụ thể của từng doanh nghiệp.
 
-1. **Giới thiệu tổng quan**: Tổng quan về AI CoE và tầm quan trọng của việc xây dựng năng lực AI trong doanh nghiệp
-2. **Framework**: Khung phương pháp luận và các thành phần cốt lõi để xây dựng AI CoE
-3. **Case Studies**: Các ví dụ thực tế và bài học kinh nghiệm từ các tổ chức đã triển khai AI CoE thành công
-4. **Tổng kết**: Đánh giá tổng thể và các khuyến nghị cho việc triển khai AI CoE
-5. **Phụ lục**: Các tài liệu tham khảo, mẫu biểu và công cụ hỗ trợ
+## Mục tiêu của playbook này
 
-## Bạn sẽ đạt được gì?
+Bộ công cụ này được phát triển nhằm giúp các tổ chức nâng cao năng lực trong việc xây dựng và triển khai Trung tâm Xuất sắc về AI (AI CoE).
 
-Sau khi đọc và áp dụng Playbook này, bạn sẽ:
+Bộ công cụ này được thiết kế như một phiên bản có thể tải xuống từ Sisu AI CoE Playbook, cho phép in ấn hoặc đọc ngoại tuyến. Khi làm việc với bộ công cụ này, bạn sẽ có được hiểu biết sâu sắc về lợi ích của việc thiết lập AI CoE, cũng như các trụ cột quan trọng trong mô hình AI CoE. Ngoài ra, bạn sẽ có một phương pháp rõ ràng để đánh giá hiện trạng năng lực AI trong tổ chức, cùng với các công cụ giúp xây dựng chiến lược AI phù hợp với mục tiêu kinh doanh.
 
-1. **Hiểu biết toàn diện**:
-   - Nắm vững khái niệm và tầm quan trọng của AI CoE
-   - Hiểu rõ các thành phần cốt lõi cần thiết để xây dựng AI CoE
-   - Có cái nhìn tổng thể về quy trình triển khai
-
-2. **Kỹ năng thực hành**:
-   - Biết cách thiết lập và quản lý AI CoE hiệu quả
-   - Có khả năng đánh giá và lựa chọn các giải pháp AI phù hợp
-   - Thành thạo trong việc triển khai các dự án AI
-
-3. **Tài nguyên thực tế**:
-   - Sở hữu các mẫu biểu và công cụ đã được kiểm chứng
-   - Có quyền truy cập vào các case study thực tế
-   - Được hướng dẫn chi tiết cho từng bước triển khai
-
-4. **Lợi ích tổ chức**:
-   - Tăng tốc quá trình chuyển đổi số với AI
-   - Tối ưu hóa chi phí và nguồn lực
-   - Nâng cao năng lực cạnh tranh của tổ chức
+Sau khi hoàn thành bộ công cụ này, bạn sẽ xác định được các hành động quan trọng và phát triển một lộ trình cụ thể để đưa tổ chức của mình trở thành một doanh nghiệp dẫn đầu trong việc ứng dụng AI.
 
 ## Cách sử dụng Playbook
 
-Playbook được thiết kế để bạn có thể:
-- Đọc theo thứ tự từ đầu đến cuối
-- Tham khảo các phần cụ thể theo nhu cầu
-- Áp dụng các mẫu và công cụ thực tế vào tổ chức của bạn
-- Tùy chỉnh nội dung theo đặc thù doanh nghiệp
+Chúng tôi khuyến nghị bạn đọc bộ công cụ theo đúng trình tự được trình bày.
+
+Thông tin trong bộ công cụ này có thể được sử dụng toàn diện từ đầu đến cuối hoặc từng phần riêng lẻ, tùy theo nhu cầu của tổ chức. Dưới đây là các phần chính của bộ công cụ:
+
+### 1. Xác định "lý do" của bạn
+
+Trước khi bắt tay vào xây dựng Trung tâm Xuất sắc về AI (AI CoE), điều quan trọng là phải hiểu rõ lợi ích của việc triển khai AI trong tổ chức. Điều này sẽ giúp bạn xây dựng một luận điểm kinh doanh vững chắc để thúc đẩy sự thay đổi.
+
+### 2. Hiểu về mô hình AI CoE Framework
+
+Bộ công cụ cung cấp thông tin chi tiết về mô hình AI CoE, bao gồm các trụ cột chính giúp tổ chức tối ưu hóa việc áp dụng AI: từ phát triển năng lực đội ngũ, chuẩn hóa quy trình, đến thúc đẩy đổi mới sáng tạo dựa trên AI.
+
+### 3. Hướng dẫn triển khai AI CoE 
+
+Bạn sẽ được hướng dẫn cách đánh giá tình trạng hiện tại của tổ chức, xây dựng chiến lược AI phù hợp, và lập kế hoạch hành động để triển khai AI CoE một cách hiệu quả.
+
+### 4. Tiếp cận tài nguyên và phương pháp thực tiễn tốt nhất
+
+Trong suốt bộ công cụ, bạn sẽ tìm thấy nhiều tài nguyên hữu ích để hỗ trợ quá trình triển khai AI CoE, bao gồm các công cụ AI, nghiên cứu điển hình, bài viết chuyên sâu và hướng dẫn từ các chuyên gia trong ngành.
+
+### 5. Các hỗ trợ từ chuyên gia
+
+Mặc dù bộ công cụ này cung cấp hướng dẫn tự triển khai, chúng tôi cũng đưa ra nhiều lựa chọn hỗ trợ từ chuyên gia. Tổ chức của bạn có thể tiếp cận các dịch vụ hỗ trợ từ xa, chương trình đào tạo chuyên sâu hoặc mô hình "train the trainer" để nâng cao năng lực nội bộ.
 
 ## Bắt đầu hành trình
 
-Hãy bắt đầu bằng việc xem xét [Giới thiệu tổng quan](/docs/overview) để hiểu rõ về tầm quan trọng và giá trị của AI CoE trong tổ chức của bạn.
+Hãy bắt đầu hành trình khám phá các phần của bộ công cụ này để hiểu rõ về tầm quan trọng và giá trị của AI CoE trong tổ chức của bạn.
