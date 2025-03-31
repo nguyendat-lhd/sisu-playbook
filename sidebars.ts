@@ -21,10 +21,9 @@ const sidebars: SidebarsConfig = {
       label: 'AI CoE Framework',
       items: [
         'ai-coe-framework/introduction',
-        'ai-coe-framework/strategy-and-governance',
+        'ai-coe-framework/opportunity-and-usecases',
         'ai-coe-framework/capability-and-development',
         'ai-coe-framework/technology-and-infrastructure',
-        'ai-coe-framework/opportunity-and-usecases',
       ],
     },
   ],
