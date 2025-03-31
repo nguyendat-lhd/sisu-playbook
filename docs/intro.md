@@ -2,46 +2,61 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Giới thiệu về AI CoE Playbook
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Chào mừng bạn đến với **AI CoE Playbook của Sisu** - một tài liệu hướng dẫn toàn diện dành cho các nhà lãnh đạo công nghệ và đổi mới trong việc xây dựng và phát triển năng lực AI trong doanh nghiệp.
 
-## Getting Started
+## Đối tượng độc giả
 
-Get started by **creating a new site**.
+Playbook này được thiết kế dành riêng cho:
+- CTO (Giám đốc Công nghệ)
+- CIO (Giám đốc Công nghệ Thông tin)
+- Head of AI (Trưởng phòng AI)
+- Innovation Lead (Trưởng phòng Đổi mới)
+- Các nhà lãnh đạo quan tâm đến việc phát triển năng lực AI trong tổ chức
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Nội dung chính
 
-### What you'll need
+Playbook này sẽ hướng dẫn bạn qua các phần quan trọng:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+1. **Giới thiệu tổng quan**: Tổng quan về AI CoE và tầm quan trọng của việc xây dựng năng lực AI trong doanh nghiệp
+2. **Framework**: Khung phương pháp luận và các thành phần cốt lõi để xây dựng AI CoE
+3. **Case Studies**: Các ví dụ thực tế và bài học kinh nghiệm từ các tổ chức đã triển khai AI CoE thành công
+4. **Tổng kết**: Đánh giá tổng thể và các khuyến nghị cho việc triển khai AI CoE
+5. **Phụ lục**: Các tài liệu tham khảo, mẫu biểu và công cụ hỗ trợ
 
-## Generate a new site
+## Bạn sẽ đạt được gì?
 
-Generate a new Docusaurus site using the **classic template**.
+Sau khi đọc và áp dụng Playbook này, bạn sẽ:
 
-The classic template will automatically be added to your project after you run the command:
+1. **Hiểu biết toàn diện**:
+   - Nắm vững khái niệm và tầm quan trọng của AI CoE
+   - Hiểu rõ các thành phần cốt lõi cần thiết để xây dựng AI CoE
+   - Có cái nhìn tổng thể về quy trình triển khai
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+2. **Kỹ năng thực hành**:
+   - Biết cách thiết lập và quản lý AI CoE hiệu quả
+   - Có khả năng đánh giá và lựa chọn các giải pháp AI phù hợp
+   - Thành thạo trong việc triển khai các dự án AI
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+3. **Tài nguyên thực tế**:
+   - Sở hữu các mẫu biểu và công cụ đã được kiểm chứng
+   - Có quyền truy cập vào các case study thực tế
+   - Được hướng dẫn chi tiết cho từng bước triển khai
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+4. **Lợi ích tổ chức**:
+   - Tăng tốc quá trình chuyển đổi số với AI
+   - Tối ưu hóa chi phí và nguồn lực
+   - Nâng cao năng lực cạnh tranh của tổ chức
 
-## Start your site
+## Cách sử dụng Playbook
 
-Run the development server:
+Playbook được thiết kế để bạn có thể:
+- Đọc theo thứ tự từ đầu đến cuối
+- Tham khảo các phần cụ thể theo nhu cầu
+- Áp dụng các mẫu và công cụ thực tế vào tổ chức của bạn
+- Tùy chỉnh nội dung theo đặc thù doanh nghiệp
 
-```bash
-cd my-website
-npm run start
-```
+## Bắt đầu hành trình
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Hãy bắt đầu bằng việc xem xét [Giới thiệu tổng quan](/docs/overview) để hiểu rõ về tầm quan trọng và giá trị của AI CoE trong tổ chức của bạn.
