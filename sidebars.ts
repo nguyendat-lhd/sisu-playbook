@@ -22,7 +22,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'ai-coe-framework/introduction',
         'ai-coe-framework/opportunity-and-usecases',
-        'ai-coe-framework/capability-and-development',
+        'ai-coe-framework/enablement',
         'ai-coe-framework/technology-and-infrastructure',
       ],
     },

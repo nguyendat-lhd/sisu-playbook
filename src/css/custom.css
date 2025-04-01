@@ -28,3 +28,88 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Custom styles for the feature table in intro.md */
+.playbook-feature-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 16px;
+  margin: 30px 0;
+}
+
+.playbook-feature-table tr {
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.03);
+  border-radius: 12px;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.5));
+  backdrop-filter: blur(10px);
+}
+
+[data-theme='dark'] .playbook-feature-table tr {
+  background: linear-gradient(to right, rgba(30, 30, 30, 0.8), rgba(30, 30, 30, 0.5));
+}
+
+.playbook-feature-table tr:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.07);
+}
+
+.playbook-feature-table td:first-child {
+  vertical-align: middle;
+  padding: 20px;
+  width: 100px;
+  background: rgba(255, 255, 255, 0.5);
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+  text-align: center;
+}
+
+[data-theme='dark'] .playbook-feature-table td:first-child {
+  background: rgba(40, 40, 40, 0.6);
+}
+
+.playbook-feature-table td:last-child {
+  padding: 16px 24px;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+.playbook-feature-table td:last-child h3 {
+  margin-top: 0;
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+.playbook-feature-table td:last-child p {
+  margin-bottom: 0;
+  line-height: 1.6;
+}
+
+.feature-item-1 {
+  border-left: 5px solid #25c2a0;
+}
+
+.feature-item-2 {
+  border-left: 5px solid #1877F2;
+}
+
+.feature-item-3 {
+  border-left: 5px solid #D14671;
+}
+
+.feature-item-4 {
+  border-left: 5px solid #9A50A3;
+}
+
+.feature-item-5 {
+  border-left: 5px solid #3578E5;
+}
+
+/* Animation effect for the icons */
+.playbook-feature-table img {
+  transition: transform 0.4s ease;
+}
+
+.playbook-feature-table tr:hover img {
+  transform: scale(1.1);
+}
