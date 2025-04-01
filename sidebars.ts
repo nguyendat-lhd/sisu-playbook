@@ -16,14 +16,24 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     'intro',
     'why-invest-in-ai-coe',
+    // {
+    //   type: 'category',
+    //   label: 'AI CoE Framework',
+    //   items: [
+    //     'ai-coe-framework/introduction',
+    //     'ai-coe-framework/opportunity-and-usecases',
+    //     'ai-coe-framework/enablement',
+    //     'ai-coe-framework/technology-and-infrastructure',
+    //   ],
+    // },
     {
       type: 'category',
-      label: 'AI CoE Framework',
+      label: 'AI CoE Toolkit',
       items: [
-        'ai-coe-framework/introduction',
-        'ai-coe-framework/opportunity-and-usecases',
-        'ai-coe-framework/enablement',
-        'ai-coe-framework/technology-and-infrastructure',
+        'ai-coe-toolkit/introduction',
+        'ai-coe-toolkit/opportunity-and-usecases',
+        'ai-coe-toolkit/enablement',
+        'ai-coe-toolkit/technology-and-infrastructure',
       ],
     },
   ],

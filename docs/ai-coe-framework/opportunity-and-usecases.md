@@ -72,103 +72,110 @@ Phân tích này cung cấp đánh giá có cấu trúc cho các use case AI kh�
 </tr>
 </table>
 
-### Ví dụ hệ thống AI Use Case
+### Hệ thống AI Use Case
 
-Dưới đây là ví dụ về một hệ thống đánh giá các AI Use Case trong doanh nghiệp, thể hiện cách chấm điểm và phân loại theo các tiêu chí đã đề cập:
-
-| STT | Use case | Tác động kinh doanh | AI implementation | Data implementation | Business impact score | AI score | Data score | Overall score | Lý do về độ phức tạp | Phân loại |
-|-----|----------|---------------------|-------------------|---------------------|----------------------|----------|------------|---------------|--------------------------|----------|
-| 1 | Customer segmentation | 🟢 High | 🟢 High | 🟠 Moderate | 9 | 5 | 4 | 9 | Kỹ thuật phân cụm tương đối đơn giản | 🟢 Quick win |
-| 2 | Market research & Competitive analysis | 🟢 High | 🟠 Moderate | 🔴 Low | 9 | 4 | 3 | 7 | Công cụ dựa trên NLP, GenAI khá phức tạp | 🟣 Transform. |
-| 3 | Address resolution system | 🔵 Very high | 🟠 Moderate | 🟠 Moderate | 10 | 4 | 4 | 8 | Yêu cầu AI cho xác thực và chuẩn hóa | 🔵 Lighthouse |
-| 4 | Redefining SLA for delivery | 🟠 Moderate | 🟢 High | 🟠 Moderate | 8 | 5 | 4 | 9 | Mô hình mô tả đơn giản hơn | 🟢 Quick win |
-| 5 | Forecasting for planning | 🟠 Moderate | 🟠 Moderate | 🟠 Moderate | 8 | 4 | 4 | 8 | Dự báo đòi hỏi ML/AI vừa phải | 🔵 Lighthouse |
-| 6 | Last mile Route optimization | 🟢 High | 🟠 Moderate | 🟠 Moderate | 9 | 4 | 4 | 8 | Thuật toán tối ưu hóa phức tạp | 🔵 Lighthouse |
-| 7 | Network simulation & analysis | 🔵 Very high | 🔴 Very low | 🔴 Low | 10 | 2 | 3 | 5 | Mô phỏng nhiều kịch bản rất khó | 🟣 Transform. |
-| 8 | Voice based conversation analysis | 🟢 High | 🟠 Moderate | 🟠 Moderate | 9 | 4 | 4 | 8 | Phân tích ngữ nghĩa và giọng nói | 🔵 Lighthouse |
-| 9 | Quality & Compliance monitoring | 🟢 High | 🔴 Low | 🟠 Moderate | 9 | 3 | 4 | 7 | Phát hiện bất thường phức tạp | 🟣 Transform. |
-| 10 | Agent support co-pilot | 🟠 Moderate | 🟠 Moderate | 🟠 Moderate | 8 | 4 | 4 | 8 | Mô hình AI thời gian thực | 🔵 Lighthouse |
-| 11 | Gen AI chatbot | 🟢 High | 🟠 Moderate | 🟢 High | 9 | 4 | 5 | 9 | AI phức tạp vừa phải với NLP | 🟢 Quick win |
-
-**Chú thích màu sắc:**
-
-**Tác động kinh doanh:**
-- 🔵 Very high: Tác động rất cao đến hoạt động kinh doanh cốt lõi
-- 🟢 High: Tác động cao đến các chỉ số KPI quan trọng
-- 🟠 Moderate: Tác động ở mức trung bình
-- 🔴 Low: Tác động thấp, có thể cải thiện nhưng không đáng kể
-
-**Mức độ triển khai AI và Dữ liệu:**
-- 🟢 High: Dễ triển khai, công nghệ/dữ liệu sẵn sàng
-- 🟠 Moderate: Mức độ phức tạp trung bình
-- 🔴 Low/Very low: Khó triển khai, yêu cầu kỹ thuật phức tạp
-
-**Phân loại:**
-- 🟢 Quick win: Tác động cao và dễ triển khai, ưu tiên thực hiện trước
-- 🔵 Lighthouse: Tác động cao với độ phức tạp trung bình, cần đầu tư phù hợp
-- 🟣 Transformational: Tác động rất cao nhưng khó triển khai, yêu cầu đầu tư lớn
-
-Bảng trên minh họa cách đánh giá các AI use case dựa trên các tiêu chí định lượng và định tính. Doanh nghiệp có thể điều chỉnh trọng số cho từng tiêu chí tùy thuộc vào ưu tiên chiến lược của mình. Phương pháp đánh giá này giúp đội ngũ lãnh đạo ra quyết định sáng suốt về việc phân bổ nguồn lực và lộ trình triển khai AI.
+![Scoring Key Use Cases](/img/scoring-key-use-cases.png)
 
 Việc phân loại này giúp doanh nghiệp xác định ưu tiên và lập kế hoạch triển khai hiệu quả cho các dự án AI.
 
-## Quản lý danh mục AI Use Case
+## Phân loại các use case theo quick-wins, lighthouse & transformational
+Việc phân loại các AI use case thành các nhóm "Quick wins", "Lighthouse" và "Transformational" giúp doanh nghiệp có chiến lược triển khai hiệu quả, cân bằng giữa giá trị ngắn hạn và dài hạn.
 
-Để quản lý hiệu quả danh mục AI use case, doanh nghiệp cần:
+![Phân loại AI Use Case](/img/categories-based-on-implementation.png)
 
-- Xây dựng quy trình đánh giá thường xuyên các use case mới
-- Cập nhật trạng thái và mức độ ưu tiên định kỳ
-- Theo dõi hiệu suất của các use case đã triển khai
-- Chia sẻ kiến thức và bài học kinh nghiệm giữa các dự án
+### Quick Wins (Thắng lợi nhanh)
+- **Đặc điểm**: Dễ triển khai, tác động cao, thời gian hoàn thành ngắn
+- **Ưu tiên**: Nên triển khai trước để tạo động lực và chứng minh giá trị
+- **Ví dụ**: Customer segmentation, Gen AI chatbot, Redefining SLA for delivery
+- **Lợi ích**: Tạo giá trị nhanh chóng, xây dựng niềm tin vào AI trong tổ chức
 
-Việc đánh giá và phân loại AI use case một cách có hệ thống sẽ giúp doanh nghiệp tối ưu hóa nguồn lực, tăng tỷ lệ thành công của các dự án AI và đạt được giá trị kinh doanh tối đa.
+### Lighthouse Projects (Dự án điểm sáng)
+- **Đặc điểm**: Tác động cao, độ phức tạp trung bình, có tính chiến lược
+- **Ưu tiên**: Đầu tư thích hợp, triển khai song song với quick wins
+- **Ví dụ**: Last mile Route optimization, Address resolution system, Agent support co-pilot
+- **Lợi ích**: Tạo ra những thay đổi đáng kể trong quy trình kinh doanh, làm nền tảng cho các dự án lớn hơn
+
+### Transformational Projects (Dự án chuyển đổi)
+- **Đặc điểm**: Tác động rất cao, phức tạp cao, thời gian triển khai dài
+- **Ưu tiên**: Lập kế hoạch dài hạn, đầu tư nguồn lực lớn
+- **Ví dụ**: Network simulation & analysis, Market research & Competitive analysis
+- **Lợi ích**: Tạo ra lợi thế cạnh tranh bền vững, chuyển đổi mô hình kinh doanh
+
+Chiến lược triển khai hiệu quả thường bắt đầu với các quick wins để tạo động lực, đồng thời chuẩn bị cho các dự án lighthouse và transformational để đảm bảo tính bền vững của chương trình AI trong dài hạn.
+
+
+## Bảng mapping AI use case với các chiến lược của công ty
+
+Việc mapping AI use case với các chiến lược của công ty là bước quan trọng để đảm bảo các dự án AI đều hướng đến mục tiêu chung của tổ chức. Dưới đây là ví dụ về cách các AI use case có thể được liên kết với các mục tiêu chiến lược của doanh nghiệp:
+
+![Mapping AI use case với chiến lược công ty](/img/ai-use-cases-strategic-goals.png)
+
+Bảng mapping này giúp lãnh đạo doanh nghiệp:
+- Đảm bảo mọi dự án AI đều hỗ trợ ít nhất một mục tiêu chiến lược
+- Xác định các lĩnh vực chiến lược chưa được hỗ trợ đầy đủ bởi các giải pháp AI
+- Ưu tiên các dự án có tác động lớn đến nhiều mục tiêu chiến lược
+- Tạo sự đồng thuận giữa các bên liên quan về giá trị của từng dự án AI
+
+Thông qua việc mapping này, doanh nghiệp có thể đảm bảo đầu tư vào AI được phân bổ hiệu quả và phù hợp với định hướng phát triển dài hạn của tổ chức.
+
+
+## Quản lý AI Use Case theo từng phòng ban (spoke)
+
+Quản lý AI use case theo phòng ban giúp tăng tính chuyên môn, hiệu quả và linh hoạt trong việc triển khai AI, đồng thời cải thiện khả năng kiểm soát và giám sát tiến độ. Mỗi phòng ban có thể tối ưu hóa tài nguyên và chi phí, phát triển các giải pháp sáng tạo phù hợp với nhu cầu riêng biệt, đồng thời thúc đẩy sự hợp tác và chia sẻ kiến thức giữa các bộ phận. Điều này cũng giúp xây dựng văn hóa AI mạnh mẽ và nâng cao hiệu quả ứng dụng AI trong toàn tổ chức.
+
+
+### Roadmap AI Use Case theo phòng ban
+
+Việc xây dựng roadmap AI use case theo từng phòng ban giúp tổ chức có cái nhìn tổng thể về lộ trình phát triển AI, đồng thời đảm bảo các dự án được triển khai theo thứ tự ưu tiên phù hợp với chiến lược kinh doanh.
+
+#### Ví dụ Roadmap AI Use Case của phòng Commercial
+
+Dưới đây là ví dụ về roadmap triển khai các AI use case của phòng Commercial, thể hiện lộ trình phát triển trong 4 quý:
+
+![Roadmap AI Use Case của phòng Commercial](/img/commercial-department-use-cases.png)
+
+Roadmap này phân chia các dự án AI theo mức độ ưu tiên và thời gian triển khai, giúp phòng Commercial có kế hoạch rõ ràng về việc ứng dụng AI để nâng cao hiệu quả hoạt động kinh doanh. Các dự án được sắp xếp theo các nhóm "Quick win", "Lighthouse" và "Transformational" để đảm bảo cân bằng giữa giá trị ngắn hạn và dài hạn.
 
 ## Triển khai và quản trị AI Use Case
 
 Sau khi đã xác định và ưu tiên các AI use case, bước tiếp theo là triển khai và quản trị hiệu quả. Đây là giai đoạn chuyển từ ý tưởng sang hiện thực hóa giá trị của AI.
 
-### Quy trình triển khai chuẩn
-
-Để đảm bảo tính nhất quán và hiệu quả, doanh nghiệp nên xây dựng quy trình triển khai chuẩn cho các AI use case, bao gồm:
-
-🔹 **Giai đoạn thử nghiệm (POC - Proof of Concept)**
-- Xác định KPIs cụ thể để đánh giá hiệu quả
-- Phát triển mô hình AI ở quy mô nhỏ
-- Đánh giá kết quả và rút ra bài học
-
-🔹 **Giai đoạn thí điểm (Pilot)**
-- Mở rộng triển khai cho nhóm người dùng cụ thể
-- Thu thập phản hồi và cải thiện giải pháp
-- Đánh giá tác động thực tế đến quy trình kinh doanh
-
-🔹 **Giai đoạn mở rộng (Scaling)**
-- Triển khai toàn diện trong tổ chức
-- Tối ưu hóa hiệu suất và tài nguyên
-- Theo dõi và đo lường giá trị mang lại
+### Quy trình triển khai AI Use Case
+Quy trình triển khai AI Use Case là một phần quan trọng trong việc hiện thực hóa giá trị của AI trong doanh nghiệp. Dưới đây là các bước chi tiết trong quy trình này:
+Bước 1: Tạo Use Case
+Nguồn ý tưởng: Thu thập ý tưởng từ các yêu cầu nội bộ, khách hàng, và các công nghệ mới. Sử dụng phương pháp tiếp cận dựa trên hội thảo và dữ liệu để xác định các cơ hội AI tiềm năng.
+Bước 2: Đánh giá và phân loại
+Phân tích và ưu tiên: Đánh giá các Use Case dựa trên giá trị kinh doanh và tính khả thi. Phân loại thành các nhóm "Quick Wins", "Lighthouse Projects", và "Transformational Use Cases" để xác định mức độ ưu tiên triển khai.
+Bước 3: Hoàn thiện Use Case
+Xây dựng lộ trình: Xác định các nhu cầu tổ chức và công nghệ cần thiết để thực hiện Use Case. Định nghĩa lộ trình tổng thể với các Use Case được ưu tiên.
+Bước 4: POC (Proof of Concept)
+Thử nghiệm và phát triển: Tiến hành thử nghiệm các Use Case được chọn để chứng minh tính khả thi và giá trị. Phát triển nguyên mẫu (Prototype) và sản phẩm khả thi tối thiểu (MVP).
+Bước 5: Đánh giá tính hiệu quả
+Đo lường và điều chỉnh: Đánh giá kết quả của các Use Case đã triển khai. Quyết định các bước tiếp theo dựa trên kết quả đánh giá, bao gồm việc mở rộng quy mô hoặc điều chỉnh chiến lược.
+Bước 6: Scale
+Mở rộng và tích hợp: Phát triển các khả năng để mở rộng quy mô AI. Xây dựng nền tảng công nghệ và cấu trúc hỗ trợ để đảm bảo sự thành công lâu dài của các dự án AI.
+Quy trình này đảm bảo rằng các dự án AI không chỉ được triển khai hiệu quả mà còn phù hợp với chiến lược và mục tiêu dài hạn của doanh nghiệp.
 
 ### Đo lường hiệu quả
 
 Việc đo lường hiệu quả của các AI use case là cần thiết để đánh giá giá trị đầu tư và cải thiện liên tục. Doanh nghiệp nên xây dựng khung đo lường dựa trên:
 
-✅ **Các chỉ số kinh doanh**
-- Tăng trưởng doanh thu hoặc tiết kiệm chi phí
-- Cải thiện năng suất và hiệu quả
-- Tác động đến sự hài lòng của khách hàng
+🔹 **Các chỉ số định lượng**
+- ROI (Return on Investment)
+- Tiết kiệm chi phí hoặc tăng doanh thu
+- Cải thiện năng suất và hiệu quả hoạt động
+- Thời gian hoàn vốn (Payback period)
 
-✅ **Các chỉ số kỹ thuật**
-- Độ chính xác và tin cậy của mô hình AI
-- Thời gian phản hồi và hiệu suất hệ thống
-- Khả năng mở rộng và bảo trì
+🔹 **Các chỉ số định tính**
+- Cải thiện trải nghiệm khách hàng
+- Nâng cao khả năng ra quyết định
+- Tăng cường sự hài lòng của nhân viên
+- Tạo lợi thế cạnh tranh
 
-### Quản trị và tuân thủ
+Dưới đây là khung đánh giá ROI cho các dự án AI, giúp doanh nghiệp có cơ sở để đo lường hiệu quả đầu tư:
 
-Để đảm bảo tính bền vững và giảm thiểu rủi ro, doanh nghiệp cần xây dựng khung quản trị AI toàn diện:
+![Khung đánh giá ROI cho dự án AI](/img/roi-assessment-framework.png)
 
-- Thiết lập các nguyên tắc đạo đức và tuân thủ quy định pháp lý
-- Đảm bảo tính minh bạch và giải thích được của các mô hình AI
-- Bảo vệ quyền riêng tư và an toàn dữ liệu
-- Giám sát liên tục để phát hiện và khắc phục sự cố
+Khung đánh giá này giúp doanh nghiệp xác định rõ các yếu tố chi phí và lợi ích, từ đó tính toán chính xác ROI và đưa ra quyết định đầu tư phù hợp cho từng dự án AI.
 
-Một hệ thống quản trị hiệu quả sẽ giúp doanh nghiệp xây dựng niềm tin với các bên liên quan và đảm bảo giá trị lâu dài của các dự án AI.
-
-Thông qua việc triển khai và quản trị có hệ thống, doanh nghiệp có thể chuyển đổi các use case AI thành giá trị kinh doanh thực tế, đồng thời xây dựng nền tảng vững chắc cho sự phát triển AI trong tương lai.
+## Qui trình triển khai AI Use case
