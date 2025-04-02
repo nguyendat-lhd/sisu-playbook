@@ -36,41 +36,90 @@ Mô hình AI Hub & Spoke là một cách tiếp cận chiến lược để tri�
 
 Việc xây dựng AI CoE mang lại hiệu quả tài chính, tăng năng suất, nâng cao sự gắn kết của nhân viên, giảm chi phí tuyển dụng và đào tạo, đồng thời đảm bảo tuân thủ các quy định và nâng cao uy tín thương hiệu. Khi AI được triển khai đúng cách, doanh nghiệp không chỉ bắt kịp xu hướng mà còn tạo ra một môi trường đổi mới liên tục, giúp đội ngũ phát triển và thích nghi với những thay đổi trong tương lai.
 
-
-### Lợi ích kinh tế
-
-Đầu tư vào AI không chỉ giúp tối ưu chi phí vận hành mà còn tăng hiệu suất làm việc và giảm thiểu sai sót. Các nghiên cứu cho thấy doanh nghiệp ứng dụng AI hiệu quả có thể tiết kiệm đáng kể chi phí nhân sự, đồng thời gia tăng lợi nhuận nhờ cải thiện quy trình ra quyết định và tự động hóa.
-
-### Uy tín thương hiệu
-
-Xây dựng AI CoE giúp doanh nghiệp khẳng định vị thế tiên phong trong đổi mới công nghệ. Các tổ chức có chiến lược AI rõ ràng và minh bạch sẽ thu hút được nhân tài công nghệ, đối tác chiến lược và khách hàng có cùng định hướng phát triển bền vững.
-
-### Gắn kết nhân sự
-
-AI không chỉ giúp nâng cao năng suất mà còn tạo điều kiện để nhân viên phát triển kỹ năng, thúc đẩy văn hóa học tập và sáng tạo. Một môi trường làm việc nơi AI hỗ trợ con người thay vì thay thế họ sẽ giúp gia tăng mức độ gắn kết và sự hài lòng trong công việc.
-
-### Giảm tỷ lệ nghỉ việc
-
-Môi trường làm việc tích hợp AI một cách hợp lý giúp nhân viên giảm áp lực công việc, tối ưu thời gian và tập trung vào các nhiệm vụ có giá trị cao. Điều này góp phần giảm tỷ lệ nghỉ việc, tiết kiệm chi phí tuyển dụng và đào tạo nhân sự mới.
-
-### Tăng năng suất
-
-AI giúp tự động hóa các quy trình lặp lại, tối ưu hóa chuỗi cung ứng, hỗ trợ ra quyết định và cải thiện trải nghiệm khách hàng. Nhờ đó, doanh nghiệp có thể nâng cao năng suất lao động mà không cần gia tăng đáng kể nguồn lực.
-
-### Giảm chi phí gián đoạn và lỗi hệ thống
-
-Triển khai AI đúng cách giúp giảm thiểu rủi ro vận hành, hạn chế lỗi hệ thống và tối ưu hiệu suất hoạt động. AI có thể dự đoán và ngăn chặn sự cố trước khi chúng xảy ra, giảm chi phí khắc phục và tối đa hóa thời gian hoạt động của hệ thống.
-
-### Hỗ trợ sáng tạo và đổi mới
-
-Doanh nghiệp sở hữu AI CoE có lợi thế trong việc khai thác dữ liệu để tạo ra sản phẩm, dịch vụ mới, đồng thời nhanh chóng thử nghiệm và triển khai các ý tưởng sáng tạo. AI giúp doanh nghiệp phát hiện cơ hội mới và mở rộng thị trường một cách hiệu quả.
-
-### Phát triển bền vững với AI
-
-AI không chỉ giúp doanh nghiệp tối ưu vận hành mà còn thúc đẩy văn hóa đổi mới và phát triển bền vững. Một doanh nghiệp biết cách khai thác AI hiệu quả sẽ không chỉ cạnh tranh tốt hơn mà còn xây dựng được nền tảng phát triển dài hạn, linh hoạt trước những biến động của thị trường.
-
-### Tuân thủ quy định
-
-Việc ứng dụng AI trong doanh nghiệp ngày càng chịu sự quản lý chặt chẽ từ các quy định về bảo mật dữ liệu, đạo đức AI và an toàn thông tin. Chủ động xây dựng AI CoE giúp doanh nghiệp đáp ứng các tiêu chuẩn mới, đảm bảo triển khai AI minh bạch, có trách nhiệm và phù hợp với các quy định pháp lý.
+<table>
+  <tbody>
+    <tr style={{ backgroundColor: '#E6F7FF' }}>
+      <td style={{ width: '60px', textAlign: 'center' }}>
+        <i className="fas fa-chart-line" style={{ fontSize: '48px', color: '#1890ff' }}></i>
+      </td>
+      <td>
+        <h3>Lợi ích kinh tế</h3>
+        <p>Đầu tư vào AI không chỉ giúp tối ưu chi phí vận hành mà còn tăng hiệu suất làm việc và giảm thiểu sai sót. Các nghiên cứu cho thấy doanh nghiệp ứng dụng AI hiệu quả có thể tiết kiệm đáng kể chi phí nhân sự, đồng thời gia tăng lợi nhuận nhờ cải thiện quy trình ra quyết định và tự động hóa.</p>
+      </td>
+    </tr>
+    <tr style={{ backgroundColor: '#FFF7E6' }}>
+      <td style={{ width: '60px', textAlign: 'center' }}>
+        <i className="fas fa-award" style={{ fontSize: '48px', color: '#fa8c16' }}></i>
+      </td>
+      <td>
+        <h3>Uy tín thương hiệu</h3>
+        <p>Xây dựng AI CoE giúp doanh nghiệp khẳng định vị thế tiên phong trong đổi mới công nghệ. Các tổ chức có chiến lược AI rõ ràng và minh bạch sẽ thu hút được nhân tài công nghệ, đối tác chiến lược và khách hàng có cùng định hướng phát triển bền vững.</p>
+      </td>
+    </tr>
+    <tr style={{ backgroundColor: '#E6FFE6' }}>
+      <td style={{ width: '60px', textAlign: 'center' }}>
+        <i className="fas fa-users" style={{ fontSize: '48px', color: '#52c41a' }}></i>
+      </td>
+      <td>
+        <h3>Gắn kết nhân sự</h3>
+        <p>AI không chỉ giúp nâng cao năng suất mà còn tạo điều kiện để nhân viên phát triển kỹ năng, thúc đẩy văn hóa học tập và sáng tạo. Một môi trường làm việc nơi AI hỗ trợ con người thay vì thay thế họ sẽ giúp gia tăng mức độ gắn kết và sự hài lòng trong công việc.</p>
+      </td>
+    </tr>
+    <tr style={{ backgroundColor: '#FFE6E6' }}>
+      <td style={{ width: '60px', textAlign: 'center' }}>
+        <i className="fas fa-user-shield" style={{ fontSize: '48px', color: '#f5222d' }}></i>
+      </td>
+      <td>
+        <h3>Giảm tỷ lệ nghỉ việc</h3>
+        <p>Môi trường làm việc tích hợp AI một cách hợp lý giúp nhân viên giảm áp lực công việc, tối ưu thời gian và tập trung vào các nhiệm vụ có giá trị cao. Điều này góp phần giảm tỷ lệ nghỉ việc, tiết kiệm chi phí tuyển dụng và đào tạo nhân sự mới.</p>
+      </td>
+    </tr>
+    <tr style={{ backgroundColor: '#E6E6FF' }}>
+      <td style={{ width: '60px', textAlign: 'center' }}>
+        <i className="fas fa-rocket" style={{ fontSize: '48px', color: '#722ed1' }}></i>
+      </td>
+      <td>
+        <h3>Tăng năng suất</h3>
+        <p>AI giúp tự động hóa các quy trình lặp lại, tối ưu hóa chuỗi cung ứng, hỗ trợ ra quyết định và cải thiện trải nghiệm khách hàng. Nhờ đó, doanh nghiệp có thể nâng cao năng suất lao động mà không cần gia tăng đáng kể nguồn lực.</p>
+      </td>
+    </tr>
+    <tr style={{ backgroundColor: '#FFF0F5' }}>
+      <td style={{ width: '60px', textAlign: 'center' }}>
+        <i className="fas fa-shield-alt" style={{ fontSize: '48px', color: '#eb2f96' }}></i>
+      </td>
+      <td>
+        <h3>Giảm chi phí gián đoạn và lỗi hệ thống</h3>
+        <p>Triển khai AI đúng cách giúp giảm thiểu rủi ro vận hành, hạn chế lỗi hệ thống và tối ưu hiệu suất hoạt động. AI có thể dự đoán và ngăn chặn sự cố trước khi chúng xảy ra, giảm chi phí khắc phục và tối đa hóa thời gian hoạt động của hệ thống.</p>
+      </td>
+    </tr>
+    <tr style={{ backgroundColor: '#F0FFF0' }}>
+      <td style={{ width: '60px', textAlign: 'center' }}>
+        <i className="fas fa-lightbulb" style={{ fontSize: '48px', color: '#13c2c2' }}></i>
+      </td>
+      <td>
+        <h3>Hỗ trợ sáng tạo và đổi mới</h3>
+        <p>Doanh nghiệp sở hữu AI CoE có lợi thế trong việc khai thác dữ liệu để tạo ra sản phẩm, dịch vụ mới, đồng thời nhanh chóng thử nghiệm và triển khai các ý tưởng sáng tạo. AI giúp doanh nghiệp phát hiện cơ hội mới và mở rộng thị trường một cách hiệu quả.</p>
+      </td>
+    </tr>
+    <tr style={{ backgroundColor: '#F5F5DC' }}>
+      <td style={{ width: '60px', textAlign: 'center' }}>
+        <i className="fas fa-leaf" style={{ fontSize: '48px', color: '#389e0d' }}></i>
+      </td>
+      <td>
+        <h3>Phát triển bền vững với AI</h3>
+        <p>AI không chỉ giúp doanh nghiệp tối ưu vận hành mà còn thúc đẩy văn hóa đổi mới và phát triển bền vững. Một doanh nghiệp biết cách khai thác AI hiệu quả sẽ không chỉ cạnh tranh tốt hơn mà còn xây dựng được nền tảng phát triển dài hạn, linh hoạt trước những biến động của thị trường.</p>
+      </td>
+    </tr>
+    <tr style={{ backgroundColor: '#E0FFFF' }}>
+      <td style={{ width: '60px', textAlign: 'center' }}>
+        <i className="fas fa-balance-scale" style={{ fontSize: '48px', color: '#096dd9' }}></i>
+      </td>
+      <td>
+        <h3>Tuân thủ quy định</h3>
+        <p>Việc ứng dụng AI trong doanh nghiệp ngày càng chịu sự quản lý chặt chẽ từ các quy định về bảo mật dữ liệu, đạo đức AI và an toàn thông tin. Chủ động xây dựng AI CoE giúp doanh nghiệp đáp ứng các tiêu chuẩn mới, đảm bảo triển khai AI minh bạch, có trách nhiệm và phù hợp với các quy định pháp lý.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Trong phần tiếp theo, bạn sẽ tìm hiểu cách doanh nghiệp có thể tiếp cận AI một cách toàn diện để đạt được kết quả tối ưu. Cách tiếp cận này, như được trình bày trong Sisu AI CoE Framework, bao gồm ba trụ cột chính: Xác định cơ hội và Use Cases, Xây dựng năng lực & Nhận thức AI, và Hạ tầng công nghệ AI.

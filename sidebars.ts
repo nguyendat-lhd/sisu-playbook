@@ -16,16 +16,6 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     'intro',
     'why-invest-in-ai-coe',
-    // {
-    //   type: 'category',
-    //   label: 'AI CoE Framework',
-    //   items: [
-    //     'ai-coe-framework/introduction',
-    //     'ai-coe-framework/opportunity-and-usecases',
-    //     'ai-coe-framework/enablement',
-    //     'ai-coe-framework/technology-and-infrastructure',
-    //   ],
-    // },
     {
       type: 'category',
       label: 'AI CoE Toolkit',
@@ -36,6 +26,18 @@ const sidebars: SidebarsConfig = {
         'ai-coe-toolkit/technology-and-infrastructure',
       ],
     },
+    {
+      type: 'category',
+      label: 'Quy trình triển khai',
+      items: [
+        'process-ai-coe/intro-process-ai-coe',
+        'process-ai-coe/prepare',
+        'process-ai-coe/assessment',
+        'process-ai-coe/planning',
+        'process-ai-coe/monitoring',
+      ],
+    },
+    'next-steps',
   ],
 };
 
