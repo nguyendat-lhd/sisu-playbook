@@ -6,16 +6,6 @@ sidebar_position: 1
 
 AI CoE Framework là một khung lý thuyết và thực hành toàn diện, được thiết kế để giúp doanh nghiệp xây dựng và vận hành AI Center of Excellence một cách hiệu quả. Framework này cung cấp các hướng dẫn chi tiết về cách tổ chức, quản lý và phát triển năng lực AI trong doanh nghiệp.
 
-## Cấu trúc của Framework
-
-AI CoE Framework được xây dựng trên ba trụ cột chính:
-
-### 1.	Xác định cơ hội và Use Cases
-Doanh nghiệp cần xác định các bài toán kinh doanh có thể ứng dụng AI để tạo ra giá trị. Việc đánh giá mức độ sẵn sàng đối với AI và xác định các yếu tố cần thiết để triển khai sẽ giúp tổ chức có chiến lược rõ ràng. Danh sách các use case tiềm năng sẽ được ưu tiên dựa trên tác động kinh doanh và khả năng thực thi.
-###	2.	Xây dựng năng lực & Nhận thức AI
-Thành công của AI không chỉ phụ thuộc vào công nghệ mà còn vào năng lực con người. Do đó, doanh nghiệp cần nâng cao nhận thức về AI thông qua đào tạo, hội thảo và các chương trình huấn luyện. Đồng thời, việc xây dựng đội ngũ có chuyên môn từ kỹ thuật đến quản lý sẽ giúp AI được triển khai hiệu quả và bền vững.
-###	3.	Hạ tầng công nghệ AI
-Để AI hoạt động hiệu quả, doanh nghiệp cần lựa chọn và triển khai các nền tảng công nghệ phù hợp. Việc xây dựng hệ thống dữ liệu vững chắc, mô hình AI tối ưu và công cụ hỗ trợ triển khai sẽ giúp đẩy nhanh tốc độ ứng dụng AI. Đồng thời, thiết lập cơ chế giám sát, bảo trì và tối ưu hóa liên tục sẽ đảm bảo AI mang lại giá trị dài hạn.
 
 ## Tổng quan về các trụ cột của AI CoE Framework
 
@@ -33,7 +23,7 @@ Thành công của AI không chỉ phụ thuộc vào công nghệ mà còn vào
         <div style={{position: "relative", minHeight: "100px"}}>
           <span style={{fontSize: "36px", position: "absolute", top: "0", left: "0"}}>🔍</span>
           <div style={{marginLeft: "45px"}}>
-            <strong>1. Xây dựng hệ thống Use Case</strong><br/>
+            <strong>1. Hệ thống Use Case Deck</strong><br/>
             <em>Tìm kiếm và đánh giá các cơ hội ứng dụng AI trong doanh nghiệp</em>
           </div>
         </div>
