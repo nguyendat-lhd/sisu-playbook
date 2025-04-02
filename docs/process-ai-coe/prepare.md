@@ -1,4 +1,4 @@
-## Chuẩn bị triển khai AI CoE
+# Chuẩn bị triển khai AI CoE
 
 Xây dựng một nền tảng vững chắc cho việc áp dụng AI CoE là điều quan trọng để đảm bảo tính bền vững lâu dài cho các sáng kiến về AI trong tổ chức.
 
@@ -37,14 +37,17 @@ Ba bước chuẩn bị được khuyến nghị để tối đa hóa tác độ
 2. **Thành lập đội ngũ cốt lõi và cam kết nguồn lực**
 
    Một đội ngũ cốt lõi mạnh mẽ sẽ đóng vai trò quan trọng trong việc triển khai AI CoE thành công. Đội ngũ này nên bao gồm:
+   Đội ngũ được hình thành với những thành viên đủ các năng lực hỗ trợ cho phần phát triển của AI, bao gồm:
 
-   - **Lãnh đạo cấp cao**: Hỗ trợ định hướng chiến lược và thúc đẩy sáng kiến AI trong toàn tổ chức.
-   - **Chuyên gia từ SISU**: Cung cấp chuyên môn về AI, giúp thiết kế và triển khai các giải pháp AI phù hợp.
-   - **Bộ phận công nghệ thông tin (IT)**: Đảm bảo cơ sở hạ tầng kỹ thuật hỗ trợ các ứng dụng AI.
-   - **Bộ phận nhân sự (HR)**: Định hướng văn hóa AI, tổ chức đào tạo và phát triển kỹ năng AI cho nhân viên.
-   - **Các nhóm vận hành**: Ứng dụng AI vào các quy trình làm việc hàng ngày.
+   - **AI Product Manager**: Người chịu trách nhiệm quản lý và định hướng chiến lược cho các sản phẩm AI. Họ sẽ làm việc chặt chẽ với các bên liên quan để đảm bảo rằng các sản phẩm AI đáp ứng được nhu cầu kinh doanh và mang lại giá trị thực tiễn cho tổ chức.
 
-   Cam kết nguồn lực bao gồm tài chính, nhân sự và công nghệ để đảm bảo các sáng kiến AI có thể được thực hiện một cách hiệu quả và bền vững.
+   - **Business Analyst (BA)**: Người phân tích và xác định các yêu cầu kinh doanh, đảm bảo rằng các giải pháp AI được phát triển phù hợp với mục tiêu và chiến lược của tổ chức. BA sẽ làm việc với các phòng ban khác nhau để thu thập thông tin và đưa ra các đề xuất cải tiến.
+
+   - **Engineering Team**: Đội ngũ kỹ sư chịu trách nhiệm phát triển, triển khai và duy trì các giải pháp AI. Họ sẽ làm việc với các công nghệ và công cụ AI hiện đại để xây dựng các mô hình và hệ thống AI hiệu quả. Đội ngũ này bao gồm các kỹ sư phần mềm, kỹ sư dữ liệu và các chuyên gia về học máy.
+
+   - **Trainer**: Người đào tạo và hỗ trợ nhân viên trong việc nắm bắt và ứng dụng các kỹ năng AI. Trainer sẽ cung cấp các khóa học, tài liệu và hướng dẫn để giúp nhân viên hiểu rõ về AI và cách áp dụng nó vào công việc hàng ngày. Họ cũng sẽ tổ chức các buổi workshop và thực hành để nâng cao kỹ năng của nhân viên.
+
+   Việc thành lập một đội ngũ cốt lõi với đầy đủ các năng lực này sẽ giúp tổ chức triển khai AI CoE một cách hiệu quả và đạt được các mục tiêu đề ra.
 
 3. **Đảm bảo sự ủng hộ của nhân viên**
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 ---
-# Quy trình triển khai
+# Tổng quan qui trình
 
 Hiểu rõ tác động của AI đối với doanh nghiệp chỉ là một phần của bức tranh tổng thể. Làm thế nào để triển khai AI CoE một cách hiệu quả là một thách thức khác. Nhiều tổ chức gặp khó khăn khi bắt đầu xây dựng một trung tâm xuất sắc về AI do thiếu một lộ trình rõ ràng.
 
@@ -11,29 +11,50 @@ Quy trình triển khai AI CoE giúp doanh nghiệp phát triển một phương
 
 AI CoE cung cấp một phương pháp có hệ thống giúp doanh nghiệp xây dựng chiến lược AI và kế hoạch hành động phù hợp. Quy trình này bao gồm các bước sau:
 
-### 1. Chuẩn Bị
-
-- Xây dựng cơ sở kinh doanh cho AI (business case) để xác định giá trị và lợi ích của AI.
-- Thành lập đội ngũ AI CoE với sự tham gia của các chuyên gia từ SISU và các phòng ban liên quan.
-- Xác định nguồn lực cần thiết, bao gồm ngân sách, công nghệ và nhân sự.
-
-### 2. Đánh Giá
-
-- Đánh giá hiện trạng AI trong tổ chức, bao gồm các công nghệ hiện có và mức độ sẵn sàng của doanh nghiệp.
-- So sánh với các tiêu chuẩn AI CoE để xác định khoảng cách và các lĩnh vực cần cải thiện.
-- Thu thập ý kiến từ các bên liên quan để đảm bảo chiến lược AI phù hợp với nhu cầu thực tế.
-
-### 3. Lập Kế Hoạch
-
-- Xây dựng chiến lược AI và kế hoạch hành động cụ thể.
-- Xác định các bước triển khai chính, từ thử nghiệm (PoC) đến mở rộng quy mô AI trong toàn tổ chức.
-- Thiết lập các quy trình quản trị AI để đảm bảo tính minh bạch, tuân thủ và hiệu quả.
-
-### 4. Theo Dõi và Cải Tiến
-
-- Phát triển cơ chế theo dõi và đánh giá hiệu quả triển khai AI.
-- Xác định các chỉ số đo lường quan trọng (KPI) để theo dõi tiến độ và tác động của AI.
-- Liên tục cải tiến chiến lược AI dựa trên dữ liệu thực tế và phản hồi từ các bên liên quan.
+<table class="process-steps-table">
+  <tbody>
+    <tr>
+      <td>
+        <h3>1. Chuẩn Bị</h3>
+      </td>
+      <td class="step-item-1">
+        <p>- Xây dựng cơ sở kinh doanh cho AI (business case) để xác định giá trị và lợi ích của AI.</p>
+        <p>- Thành lập đội ngũ AI CoE với sự tham gia của các chuyên gia từ SISU và các phòng ban liên quan.</p>
+        <p>- Xác định nguồn lực cần thiết, bao gồm ngân sách, công nghệ và nhân sự.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>2. Đánh Giá</h3>
+      </td>
+      <td class="step-item-2">
+        <p>- Đánh giá hiện trạng AI trong tổ chức, bao gồm các công nghệ hiện có và mức độ sẵn sàng của doanh nghiệp.</p>
+        <p>- So sánh với các tiêu chuẩn AI CoE để xác định khoảng cách và các lĩnh vực cần cải thiện.</p>
+        <p>- Thu thập ý kiến từ các bên liên quan để đảm bảo chiến lược AI phù hợp với nhu cầu thực tế.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>3. Lập Kế Hoạch</h3>
+      </td>
+      <td class="step-item-3">
+        <p>- Xây dựng chiến lược AI và kế hoạch hành động cụ thể.</p>
+        <p>- Xác định các bước triển khai chính, từ thử nghiệm (PoC) đến mở rộng quy mô AI trong toàn tổ chức.</p>
+        <p>- Thiết lập các quy trình quản trị AI để đảm bảo tính minh bạch, tuân thủ và hiệu quả.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>4. Theo Dõi và Cải Tiến</h3>
+      </td>
+      <td class="step-item-4">
+        <p>- Phát triển cơ chế theo dõi và đánh giá hiệu quả triển khai AI.</p>
+        <p>- Xác định các chỉ số đo lường quan trọng (KPI) để theo dõi tiến độ và tác động của AI.</p>
+        <p>- Liên tục cải tiến chiến lược AI dựa trên dữ liệu thực tế và phản hồi từ các bên liên quan.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Hợp Tác để Thành Công
 
